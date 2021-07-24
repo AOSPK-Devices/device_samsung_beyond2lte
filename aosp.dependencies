@@ -1,0 +1,30 @@
+[
+  {
+    "repository": "device_samsung_exynos9820-common",
+    "target_path": "device/samsung/exynos9820-common"
+  },
+  {
+    "remote": "blobs",
+    "repository": "vendor_samsung_beyond2lte",
+    "target_path": "vendor/samsung/beyond2lte",
+    "branch": "eleven"
+  },
+  {
+    "remote": "github",
+    "repository": "ECr34T1v3/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch": "lineage-18.1"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_samsung_nfc",
+    "target_path": "hardware/samsung/nfc",
+    "branch": "lineage-18.1"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_device_samsung_slsi_sepolicy",
+    "target_path": "device/samsung_slsi/sepolicy",
+    "branch": "lineage-18.1"
+  }
+]
